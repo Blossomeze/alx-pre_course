@@ -1,1 +1,1 @@
-My first readme while working for ALX
+My first readme
